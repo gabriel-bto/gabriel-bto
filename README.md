@@ -5,3 +5,7 @@ Apaixonado pela tecnologia e pelo mundo das aplicações móveis. Tenho mais de 
 Minha paixão pelo Flutter e pelo Dart começou quando eu percebi o quão poderosa e eficiente essa tecnologia é para o desenvolvimento de aplicativos multiplataforma. Tenho dedicado tempo e esforço para me aprofundar nessa tecnologia e estar sempre atualizado com as últimas tendências e melhores práticas do mercado.
 
 Em minha trajetória como desenvolvedor Mobile, tenho orgulho de buscar sempre a excelência em meu trabalho, aplicando meu conhecimento e habilidades para criar soluções que atendam às necessidades dos clientes e dos usuários finais.
+
+[![Linkedin: Gabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bto/)](https://www.linkedin.com/in/gabriel-bto/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-brito&hide_border=true&border_radius=5)](https://git.io/streak-stats)
