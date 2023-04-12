@@ -2,7 +2,7 @@
 
 Apaixonado pela tecnologia e pelo mundo das aplicações móveis. Tenho mais de 2 anos de experiência nessa área e sou especializado em Flutter/Dart, com conhecimento nas linguagens nátivas Kotlin/Java e Swift.
 
-Minha paixão pelo Flutter e pelo Dart começou quando eu percebi o quão poderosa e eficiente essa tecnologia é para o desenvolvimento de aplicativos multiplataforma. Tenho dedicado tempo e esforço para me aprofundar nessa tecnologia e estar sempre atualizado com as últimas tendências e melhores práticas do mercado.
+Sou um entusiasta do Flutter e estou sempre em busca de aprimoramento e aprendizado contínuo. Acredito que a tecnologia é uma ferramenta poderosa para melhorar a vida das pessoas e tornar o mundo um lugar melhor. 
 
 Em minha trajetória como desenvolvedor Mobile, tenho orgulho de buscar sempre a excelência em meu trabalho, aplicando meu conhecimento e habilidades para criar soluções que atendam às necessidades dos clientes e dos usuários finais.
 
