@@ -37,8 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabriel-bto/gabriel-bto/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/gabriel-bto/gabriel-bto/blob/output/github-contribution-grid-snake.svg)
 
 ###
