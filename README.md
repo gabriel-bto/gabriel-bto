@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">👋 Hello, I'm Gabriel Brito</h1>
 
 ###
