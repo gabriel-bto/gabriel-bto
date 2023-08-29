@@ -1,21 +1,24 @@
-<h2 align="left">Hi there 👋</h2>
+<h2 align="left">👋 Hi there, I'm Gabriel </h2>
 
-###
+I'm a Full Stack Developer and Technology Enthusiast! 👨‍💻
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-bto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-bto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Welcome to my digital space! Here you'll find a bit about me, my tech passions, and projects I've been working on. I'm a tireless learning enthusiast and constantly seek out new and exciting technologies to enhance my skills.
 
-###
+🚀 About Me
+I'm a full stack developer with experience in both mobile app development and building strong backend foundations. My journey into programming started with a fascination for how lines of code transform into powerful and impactful solutions. Since then, I've been exploring a vast ecosystem of languages, frameworks, and tools to create amazing experiences.
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_00.gif"  />
+🛠️ Technologies
+My skill set covers an array of technologies, including:
 
-  <a href="mailto:gabrielfelipe3123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-bto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- Front-end: [List your front-end development skills and related tools, such as HTML, CSS, JavaScript, React, Vue, etc.]
+- Back-end: [List your back-end development skills and related tools, such as Node.js, Python, Ruby on Rails, etc.]
+- Mobile: [List your mobile development skills and related tools, such as Android, iOS, Flutter, etc.]
+
+🌱 Currently Learning
+I never stop learning! Currently, I'm delving into [Mention the specific technologies or areas you're currently focusing on].
+
+📫 Get in Touch
+I'm always open to connections, collaborations, and tech conversations. Feel free to reach out to me through my [LinkedIn, Twitter, etc.], or drop me an email at [your@email.com].
+
+Let's build the future together! 🌟
 
