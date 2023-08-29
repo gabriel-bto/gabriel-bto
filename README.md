@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a full stack developer with experience in both mobile app development and building strong backend foundations. My journey into programming started with a fascination for how lines of code transform into powerful and impactful solutions. Since then, I've been exploring a vast ecosystem of languages, frameworks, and tools to create amazing experiences.</p>
+<p align="left">I'm a full stack developer with experience in both mobile app development and building strong backend foundations. My journey into programming started with a fascination for how lines of code transform into powerful and impactful solutions. Since then, I've been exploring a vast ecosystem of languages, frameworks, and tools to create amazing experiences</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm always open to connections, collaborations, and tech conversations. Feel free to reach out to me through my LinkedIn, Twitter, etc., or drop me an email.<br><br>Let's build the future together! 🌟</p>
+<p align="left">I'm always open to connections, collaborations, and tech conversations. Feel free to reach out to me through my LinkedIn, Twitter, etc., or drop me an email</p>
 
 ###
 
@@ -46,3 +46,5 @@
 </div>
 
 ###
+
+<p align="left">Let's build the future together! 🌟</p>
